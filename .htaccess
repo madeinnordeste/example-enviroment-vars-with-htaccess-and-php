@@ -1,0 +1,6 @@
+#set Env Vars
+SetEnv FIRST_VAR /foo/bar
+SetEnv SECOND_VAR hello
+
+#Enable Directory List
+Options +Indexes
